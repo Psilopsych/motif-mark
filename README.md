@@ -5,6 +5,7 @@ unhappy with colors or they are too similar, simply run the program until you ob
 desirable colors.
 
 __Usage__ 
+
 python motifMark.py [options]
 
 __Input flags__
@@ -16,6 +17,7 @@ _Required_
 -m [file containing interested motifs] - supports multiple motifs
 
 __Coming Soon__
+
 -c [color palette] - file containing RGB or hexadecimal colors for motifs
 
 -p [Output as png] 
