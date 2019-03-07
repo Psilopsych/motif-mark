@@ -16,6 +16,10 @@ _Required_
 
 -m [File containing interested motifs] - supports multiple motifs
 
+__Example__
+
+python motifMark.py -f Figure_1.fasta -m Fig_1_motifs.txt
+
 __Coming Soon__
 
 -c [Color palette] - file containing RGB or hexadecimal colors for motifs
