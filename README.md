@@ -6,7 +6,7 @@ desirable colors.
 
 __Usage__ 
 
-python motifMark.py [options]
+python motifMark.py [Options]
 
 __Input flags__
 
@@ -14,11 +14,11 @@ _Required_
 
 -f [Fasta file] - supports multiple fasta sequences
 
--m [file containing interested motifs] - supports multiple motifs
+-m [File containing interested motifs] - supports multiple motifs
 
 __Coming Soon__
 
--c [color palette] - file containing RGB or hexadecimal colors for motifs
+-c [Color palette] - file containing RGB or hexadecimal colors for motifs
 
 -p [Output as png] 
 
