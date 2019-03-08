@@ -1,5 +1,5 @@
 # Motif-mark
-Python script to visualize motifs on sequences. An image will be created for each read.
+Python script to visualize motifs on sequences. One image will be created for all reads.
 __Default output file is an SVG image.__ Motif colors are chosen randomly, if you're 
 unhappy with colors or they are too similar, simply run the program until you obtain 
 desirable colors.
